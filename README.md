@@ -1,5 +1,3 @@
-<h1 align="center"><img src="/logo.png">
-
 Deep Learning for bacterial classification</h1>
 
 # BacXeption
