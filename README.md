@@ -44,10 +44,7 @@ in the `model/` folder.
   3 categories) 
 3. Follow the instructions in section 2.1
 
-## 3. Contributing
-Pull requests and suggestions are always welcome. 
-
-## 4. Additional information
+## 3. Additional information
 
 ### Authors
 Leonardo Castorina - [universVM](https://github.com/universvm)
