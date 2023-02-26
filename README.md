@@ -1,6 +1,6 @@
 Deep Learning for bacterial classification</h1>
 
-# BacXeption
+# bacxeption
 
 BacXeption is a Deep Learning template of image segmentation functions and a 
 Convolutional Neural Network (CNN) built on Keras for bacterial image 
